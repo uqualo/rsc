@@ -1,11 +1,61 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_297_16853)">
-<path d="M10 20C4.47715 20 0 15.5228 0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20Z" fill="#00A79D"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M5.75738 8.58564L6.46449 7.87853L7.8787 9.29274L7.1716 9.99985C6.39055 10.7809 6.39055 12.0472 7.1716 12.8283C7.95264 13.6093 9.21897 13.6093 10 12.8283L10.7071 12.1212L12.1213 13.5354L11.4142 14.2425C9.85214 15.8046 7.31948 15.8046 5.75738 14.2425C4.19529 12.6804 4.19529 10.1477 5.75738 8.58564ZM12.8284 9.99985L12.1213 10.707L13.5356 12.1212L14.2427 11.4141C15.8048 9.85197 15.8048 7.31931 14.2427 5.75721C12.6806 4.19511 10.1479 4.19511 8.58581 5.75721L7.8787 6.46432L9.29292 7.87853L10 7.17142C10.7811 6.39037 12.0474 6.39037 12.8284 7.17142C13.6095 7.95247 13.6095 9.2188 12.8284 9.99985ZM10.7071 7.87853L7.8787 10.707L9.29292 12.1212L12.1213 9.29274L10.7071 7.87853Z" fill="white"/>
-</g>
-<defs>
-<clipPath id="clip0_297_16853">
-<rect width="20" height="20" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 40 40"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="bnd1.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="35.3"
+     inkscape:cx="10"
+     inkscape:cy="9.9858357"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     clip-path="url(#clip0_297_16853)"
+     id="g2"
+     transform="scale(2)">
+    <path
+       d="M 10,20 C 4.47715,20 0,15.5228 0,10 0,4.47715 4.47715,0 10,0 c 5.5228,0 10,4.47715 10,10 0,5.5228 -4.4772,10 -10,10 z"
+       fill="#00a79d"
+       id="path1" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="M 5.75738,8.58564 6.46449,7.87853 7.8787,9.29274 7.1716,9.99985 c -0.78105,0.78105 -0.78105,2.04735 0,2.82845 0.78104,0.781 2.04737,0.781 2.8284,0 l 0.7071,-0.7071 1.4142,1.4142 -0.7071,0.7071 c -1.56206,1.5621 -4.09472,1.5621 -5.65682,0 -1.56209,-1.5621 -1.56209,-4.0948 0,-5.65686 z m 7.07102,1.41421 -0.7071,0.70715 1.4143,1.4142 0.7071,-0.7071 c 1.5621,-1.56213 1.5621,-4.09479 0,-5.65689 -1.5621,-1.5621 -4.0948,-1.5621 -5.65689,0 L 7.8787,6.46432 9.29292,7.87853 10,7.17142 c 0.7811,-0.78105 2.0474,-0.78105 2.8284,0 0.7811,0.78105 0.7811,2.04738 0,2.82843 z M 10.7071,7.87853 7.8787,10.707 9.29292,12.1212 12.1213,9.29274 Z"
+       fill="#ffffff"
+       id="path2" />
+  </g>
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0_297_16853">
+      <rect
+         width="20"
+         height="20"
+         fill="#ffffff"
+         id="rect2"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
 </svg>

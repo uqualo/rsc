@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="20"
-   height="20"
-   viewBox="0 0 20 20"
+   width="40"
+   height="40"
+   viewBox="0 0 40 40"
    fill="none"
    version="1.1"
    id="svg1"
-   sodipodi:docname="Property 1=sent - Copy.svg"
+   sodipodi:docname="bnd22.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,8 +22,8 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:zoom="13.240574"
-     inkscape:cx="-1.0951186"
-     inkscape:cy="-5.1734915"
+     inkscape:cx="-1.0951187"
+     inkscape:cy="-5.1734917"
      inkscape:window-width="1920"
      inkscape:window-height="992"
      inkscape:window-x="1911"
@@ -31,9 +31,10 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <path
-     d="M 10,0 C 15.52,0 20,4.48 20,10 20,15.52 15.52,20 10,20 4.48,20 0,15.52 0,10 0,4.48 4.48,0 10,0 Z m 0,9 H 6 v 2 h 4 v 3 l 4,-4 -4,-4 z"
+     d="m 19.999999,0 c 11.04,0 20,8.9599998 20,19.999999 0,11.04 -8.96,20 -20,20 C 8.9599998,39.999999 0,31.039999 0,19.999999 0,8.9599998 8.9599998,0 19.999999,0 Z m 0,18 H 12 v 3.999999 h 7.999999 v 6 l 8,-8 -8,-7.999999 z"
      fill="#177ee5"
-     id="path1" />
+     id="path1"
+     style="stroke-width:2" />
   <defs
      id="defs1">
     <clipPath
@@ -48,7 +49,7 @@
     </clipPath>
   </defs>
   <path
-     d="m 10,0.476191 c 5.257143,0 9.52381,4.266666 9.52381,9.523809 0,5.257142 -4.266667,9.523809 -9.52381,9.523809 C 4.742857,19.523809 0.476191,15.257142 0.476191,10 0.476191,4.742857 4.742857,0.476191 10,0.476191 Z"
-     style="fill:none;stroke:#00a79d;stroke-width:0.952381;stroke-opacity:1;paint-order:normal"
+     d="m 19.999999,0.95238198 c 10.514286,0 19.04762,8.53333182 19.04762,19.04761702 0,10.514284 -8.533334,19.047618 -19.04762,19.047618 -10.5142852,0 -19.04761702,-8.533334 -19.04761702,-19.047618 0,-10.5142852 8.53333182,-19.04761702 19.04761702,-19.04761702 z"
+     style="fill:none;stroke:#00a79d;stroke-width:1.90476;stroke-opacity:1;paint-order:normal"
      id="path1-1" />
 </svg>
